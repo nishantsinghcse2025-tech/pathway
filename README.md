@@ -16,7 +16,7 @@
         <a href="https://github.com/pathwaycom/pathway/actions/workflows/release.yml">
         <img src="https://github.com/pathwaycom/pathway/actions/workflows/release.yml/badge.svg" alt="Last release"/></a>
         <a href="https://badge.fury.io/py/pathway"><img src="https://badge.fury.io/py/pathway.svg" alt="PyPI version" height="18"></a>
-        <a href="https://badge.fury.io/py/pathway"><img src="https://static.pepy.tech/badge/pathway" alt="PyPI downloads" height="18"></a>
+        <a href="https://badge.fury.io/py/pathwayy"><img src="https://static.pepy.tech/badge/pathway" alt="PyPI downloads" height="18"></a>
         <a href="https://github.com/pathwaycom/pathway/blob/main/LICENSE.txt">
         <img src="https://img.shields.io/badge/license-BSL-green" alt="License: BSL"/></a>
       <br>
